@@ -19,9 +19,8 @@ basic_info:
     focus: Becoming a proficient software engineer
     
     # You have 1 paragraph to make a great impression, summarize your career
-    summary: |
-      I have been a teacher for over 20 years. I have taught youth and adults. I am ready to begin creating 
-      things that serve many people in a powerful and positive way.
+    summary:
+      I have been a teacher for over 20 years. I have taught youth and adults. I am ready to begin creating things that serve many people in a powerful and positive way.
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
